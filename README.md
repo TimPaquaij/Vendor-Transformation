@@ -1,4 +1,4 @@
-Vendor Classifiaction and Transformation (Tim's Internship)
+Vendor Classifiaction and Transformation (Tim's Internship (private code))
 ==========
 
 This project focust on the implementation and trainining of vendor specific transformation and classification models in CT scans. 
@@ -146,5 +146,3 @@ Results
 | CycleGAN       | 0.00     | 0.90    | 0.77    |
 | StyleTransfer | 0.00    | 0.61    | 0.00    |
 | CVH-CT | 0.00     | 0.64    | 0.09    |
-# Vendor-Transformation
-# Vendor-Transformation
