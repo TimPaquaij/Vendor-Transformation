@@ -148,4 +148,4 @@ Results
 | CVH-CT | 0.00     | 0.64    | 0.09    |
 
 **Video**
-<iframe width="900" src="video/Internship.mp4"" frameborder="0" allowfullscreen></iframe>
+<a href="video/Internship.mp4">Watch Demo Video</a>
