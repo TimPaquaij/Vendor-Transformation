@@ -148,4 +148,4 @@ Results
 | CVH-CT | 0.00     | 0.64    | 0.09    |
 
 **Video**
-[![Watch the video](https://i.vimeocdn.com/video/1936169791-1f78d52973857785473be39eab7f325be9b45ec2abd521d2b5850c4f0b81e709-d?mw=2880&mh=840&q=70)](https://vimeo.com/1018057297?share=copy#t=0)
+[![Watch the video](https://i.vimeocdn.com/video/1936179678-ca2cfec543f1712ea0570fe99e0b27334b5cd3a88afdefa0af4eaf9593b4d59c-d_2400)](https://vimeo.com/1018057297?share=copy#t=0)
