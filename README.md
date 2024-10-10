@@ -1,7 +1,7 @@
 Vendor Classifiaction and Transformation (Tim's Internship (private code))
 ==========
 
-This project focust on the implementation and trainining of vendor specific transformation and classification models in CT scans. 
+This project focust on the training and classification of vendor specific characteristics in contrast cardiovascular CT scans.
 
 The following project workflow was used to build this code:
 
@@ -119,6 +119,8 @@ Results
 |Literature                   |0.79     |0.79  | 0.78   |
 |Univariate Feature Selection |0.93     | 0.93 | 0.93   |
 |Recursive Feature Elimination| 1.0     | 1.0  | 1.0    |
+
+
 **NOTE:** These results are all based on Descinsion Tree Classifier
 
 
