@@ -91,9 +91,9 @@ python test.py selection=Literature
 For example, if own dataset is used. The radiomics will be automatically saved in the radiomics folder in the following way: radiomics_(roi-size)_dataset-name.csv
 
 ```bash
-python test.py radiomics=CT selection=RFE 
-python test.py selection=Univariate
-python test.py selection=Literature
+python test.py radiomics=CT selection=RFE selection.estimator=DTC
+python test.py selection=Univariate selection.estimator=RF
+python test.py selection=Literature selection.estimator= Logistic
 ```
 
 **Note:** If there are already radomics extracted from the dataset and saved you do not have to run the radiomics again when you want to test multiple classifiers. 
@@ -119,6 +119,8 @@ Results
 |Literature                   |0.79     |0.79  | 0.78   |
 |Univariate Feature Selection |0.93     | 0.93 | 0.93   |
 |Recursive Feature Elimination| 1.0     | 1.0  | 1.0    |
+**NOTE:** These results are all based on Descinsion Tree Classifier
+
 
 **Classification task CNN based on 28 studies (8687 slices):**
 |             |Precision  | Recall  | f1-Score|
@@ -148,4 +150,5 @@ Results
 | CVH-CT | 0.00     | 0.64    | 0.09    |
 
 **Video**
+This video show how to activate the application to transfomr the vendor and classify the trasnfomred image based on serveral classification methods.
 [![Watch the video](https://i.vimeocdn.com/video/1936179678-ca2cfec543f1712ea0570fe99e0b27334b5cd3a88afdefa0af4eaf9593b4d59c-d_2400)](https://vimeo.com/1018057297?share=copy#t=0)
